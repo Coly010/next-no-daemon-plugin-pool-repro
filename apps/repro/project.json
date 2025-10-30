@@ -1,0 +1,9 @@
+{
+  "name": "repro",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/repro",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project repro --web",
+  "targets": {}
+}
