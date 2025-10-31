@@ -5,7 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
-    "next": "~15.2.4",
+    "next": "~16.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -13,7 +13,7 @@
     "@eslint/compat": "^1.1.1",
     "@eslint/eslintrc": "^2.1.1",
     "@eslint/js": "^9.8.0",
-    "@next/eslint-plugin-next": "^15.2.4",
+    "@next/eslint-plugin-next": "^16.0.1",
     "@nx/eslint": "22.1.0-canary.20251030-b283663",
     "@nx/eslint-plugin": "22.1.0-canary.20251030-b283663",
     "@nx/jest": "22.1.0-canary.20251030-b283663",
@@ -40,7 +40,9 @@
     "eslint-plugin-react-hooks": "5.0.0",
     "jest": "^30.0.2",
     "jest-environment-jsdom": "^30.0.2",
+    "jest-environment-node": "^30.0.2",
     "jest-util": "^30.0.2",
+    "jsonc-eslint-parser": "^2.1.0",
     "nx": "22.1.0-canary.20251030-b283663",
     "prettier": "^2.6.2",
     "ts-jest": "^29.4.0",
